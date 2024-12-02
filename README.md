@@ -1,1 +1,17 @@
-IyBUZXN0IFJlcG9zaXRvcnkKClRoaXMgaXMgYSB0ZXN0IHJlcG9zaXRvcnkgY3JlYXRlZCB1c2luZyBDbGF1ZGUgaW50ZWdyYXRpb24gd2l0aCBHaXRIdWIuCgojIyBQdXJwb3NlCi0gRGVtb25zdHJhdGUgR2l0SHViIEFQSSBpbnRlZ3JhdGlvbgotIFRlc3QgcmVwb3NpdG9yeSBjcmVhdGlvbiBhbmQgbWFuYWdlbWVudAotIFByYWN0aWNlIHZlcnNpb24gY29udHJvbAoKIyMgRmVhdHVyZXMKLSBCYXNpYyByZXBvc2l0b3J5IHNldHVwCi0gUkVBRE1FIGRvY3VtZW50YXRpb24KLSBFcnJvciBoYW5kbGluZyBkZW1vbnN0cmF0aW9uCi0gTW9yZSBmZWF0dXJlcyB0byBjb21lCgpGZWVsIGZyZWUgdG8gbW9kaWZ5IGFuZCBleHBlcmltZW50IHdpdGggdGhpcyByZXBvc2l0b3J5IQ==
+# Test Repository
+
+This is a test repository created using Claude integration with GitHub.
+
+## Purpose
+- Demonstrate GitHub API integration
+- Test repository creation and management
+- Practice version control
+- Error handling demonstration
+
+## Features
+- Basic repository setup
+- README documentation
+- Proper error handling
+- More features to come
+
+Feel free to modify and experiment with this repository!
